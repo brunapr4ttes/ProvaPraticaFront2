@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container{
+  width: 490px;
+  height: 500px;
+  border-radius: 10%;
+  background-color: rgb(41, 49, 54);
+}

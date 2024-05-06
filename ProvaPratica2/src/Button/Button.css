@@ -1,0 +1,13 @@
+.botao{
+    width: 400px;
+    height: 45px;
+    background-color: aliceblue;
+    color:  rgb(255, 89, 0);
+    align-items: center;
+    transition: 0.5s;
+}
+
+.botao:hover{
+    background-color: rgb(255, 89, 0);
+    color: aliceblue;
+}
